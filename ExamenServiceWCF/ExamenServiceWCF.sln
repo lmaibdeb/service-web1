@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenServiceWCF", "ExamenServiceWCF.csproj", "{BE0875F5-1EEE-4BE2-ADD7-F01CDC6403EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenServiceWCF-client-envoyer", "..\ExamenServiceWCF-client-envoyer\ExamenServiceWCF-client-envoyer.csproj", "{5DDC1071-B7FD-4DED-8FDA-E5C6A10DB39A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BE0875F5-1EEE-4BE2-ADD7-F01CDC6403EF} = {BE0875F5-1EEE-4BE2-ADD7-F01CDC6403EF}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0875F5-1EEE-4BE2-ADD7-F01CDC6403EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0875F5-1EEE-4BE2-ADD7-F01CDC6403EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0875F5-1EEE-4BE2-ADD7-F01CDC6403EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0875F5-1EEE-4BE2-ADD7-F01CDC6403EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDC1071-B7FD-4DED-8FDA-E5C6A10DB39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDC1071-B7FD-4DED-8FDA-E5C6A10DB39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDC1071-B7FD-4DED-8FDA-E5C6A10DB39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDC1071-B7FD-4DED-8FDA-E5C6A10DB39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFC9237-3B31-403B-8ACC-C59C5D005659}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\bin\Debug\ExamenServiceWCF-client2.exe.config
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\bin\Debug\ExamenServiceWCF-client2.exe
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\bin\Debug\ExamenServiceWCF-client2.pdb
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\obj\Debug\ExamenServiceWCF-client2.csproj.AssemblyReference.cache
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\obj\Debug\ExamenServiceWCF-client2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\obj\Debug\ExamenServiceWCF-client2.csproj.CoreCompileInputs.cache
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\obj\Debug\ExamenServiceWCF-client2.exe
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF-client2\obj\Debug\ExamenServiceWCF-client2.pdb

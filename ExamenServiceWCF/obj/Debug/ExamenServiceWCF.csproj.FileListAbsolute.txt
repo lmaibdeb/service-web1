@@ -1,0 +1,7 @@
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF\bin\Debug\ExamenServiceWCF.dll.config
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF\bin\Debug\ExamenServiceWCF.dll
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF\bin\Debug\ExamenServiceWCF.pdb
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF\obj\Debug\ExamenServiceWCF.csproj.AssemblyReference.cache
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF\obj\Debug\ExamenServiceWCF.csproj.CoreCompileInputs.cache
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF\obj\Debug\ExamenServiceWCF.dll
+C:\Users\bluel\source\repos\DevAppliOrienteService\ExamenServiceWCF\obj\Debug\ExamenServiceWCF.pdb
